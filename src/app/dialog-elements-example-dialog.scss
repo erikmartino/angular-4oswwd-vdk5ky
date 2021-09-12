@@ -1,0 +1,15 @@
+mat-list,
+mat-selection-list {
+  overflow: auto;
+  flex-grow: 1;
+  max-height: 200px;
+}
+
+.mat-button.mat-dimmed {
+  color: #888;
+}
+
+.close-button {
+  float: right;
+  transform: translate(80%, -80%);
+}
